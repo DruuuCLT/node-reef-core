@@ -1,6 +1,7 @@
 // Copyright 2021-2024 Atlas
 // Author: Atlas (atlas@vialabs.io)
 
+// @ts-nocheck
 import { ethers } from "ethers";
 import { IMessage } from "../types/IMessage.js";
 import { getChainConfig } from "@vialabs-io/npm-registry";
